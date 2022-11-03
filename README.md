@@ -1,1 +1,1 @@
-<h1>Testes com Ruby</h1>
+## Repositório criado para o projeto da NLW 10 - Copa da Rocketseat
